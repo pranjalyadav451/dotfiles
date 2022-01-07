@@ -105,4 +105,3 @@ export PATH="$HOME/.custom_scripts:$PATH"
 # fnm
 export PATH=/home/pranjal/.fnm:$PATH
 eval "`fnm env`"
-alias lg='lazygit'
